@@ -1,5 +1,5 @@
 /********************************************************************
-Programa para resolver un sudoku
+This code solves a Sudoku
 
 By
 Angel Antonio Mendez Hernandez
